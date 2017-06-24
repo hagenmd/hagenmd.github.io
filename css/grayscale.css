@@ -231,8 +231,8 @@ a:focus {
     padding-top: 100px;
   }
   .edu-section {
-    padding-top: 150px;
-    padding-bottom: 100px;
+    padding-top: 10%;
+    padding-bottom: 25%;
   }
 }
 .btn {
