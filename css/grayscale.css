@@ -58,7 +58,7 @@ a:focus {
   font-weight: 400;
 }
 .navbar-custom {
-  margin-bottom: 0;
+  margin-bottom: 100;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: white;
 }
