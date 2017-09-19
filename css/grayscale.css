@@ -132,6 +132,8 @@ a:focus {
   -o-background-size: cover;
 }
 .intro .intro-body {
+  padding-top: 15%;
+  padding-bottom: 15%;
   display: table-cell;
   vertical-align: middle;
 }
